@@ -1,6 +1,6 @@
 # Symbolic General Relativity
 
-This code provides functions that allow us to calculate several GR tensorial objects such as the Christoffel symbols, the Riemann and Ricci tensors, and the scalar curvature. Additionally, it includes a function for performing a coordinate transformation of the metrics from a set of variables X to a set of variables Y.
+This codes provides functions that allow us to calculate several GR tensorial objects such as the Christoffel symbols, the Riemann and Ricci tensors, and the scalar curvature. Additionally, it includes a function for performing a coordinate transformation of the metrics from a set of variables X to a set of variables Y.
 
 For installation, only Python and SymPy are needed.
 
